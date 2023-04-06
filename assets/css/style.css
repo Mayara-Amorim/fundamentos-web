@@ -1,0 +1,44 @@
+p, h1{
+    text-align: justify;
+}
+.container{
+   display: flex;
+   flex-flow: row;
+   justify-content: center;
+   align-items: center;
+}
+#menu li{
+    display: inline;
+    padding: 2vw;
+
+}
+#menu li a{
+    text-decoration: none;
+    color: black;
+}
+.texto{
+    padding: 20px;
+    
+}
+.imagem{
+    padding: 10px;
+    border-radius: 50%;
+}
+.wh{
+    width: 200px;
+    height: 200px;
+}
+.social{
+height: 30px;
+width: 30px;
+}
+.mb-50{
+    margin-bottom: 50px;
+}
+.container-1{
+    display: flex;
+    flex-flow: column;
+}
+.ml-50{
+   margin-left: 50px; 
+}
